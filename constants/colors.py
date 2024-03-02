@@ -1,0 +1,8 @@
+class Colors:
+    BACKGROUND = "#F0F3FB"
+    OUTLINE = "#D8DADC"
+    WHITE = "#FFFFFF"
+    BLACK = "#000000"
+    BLACK_50 = "#00000080"
+    HINT_TEXT = "#808080"
+    DARK_PRIMARY = "#080808"

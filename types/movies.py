@@ -1,0 +1,2 @@
+class Movies:
+    url: str
